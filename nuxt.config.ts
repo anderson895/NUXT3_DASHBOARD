@@ -7,5 +7,8 @@ export default defineNuxtConfig({
     '~/plugins/chartjs.client.ts',
     '~/plugins/chartjs-gradient.client.ts',
     '~/plugins/chartjs-labels.client.ts'
-  ]
+  ],
+
+  
 })
+
